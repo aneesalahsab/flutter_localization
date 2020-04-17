@@ -18,7 +18,8 @@ class AppLocalizations {
       'item1': 'Item 1',
       'item2': 'Item 2',
       'item3': 'Item 3',
-      'item4': 'Item 4',
+      'item4': 'Item 4', 'lang': 'عربي',
+
     },
     'ar': {
       'title': ' اللغات',
@@ -27,7 +28,8 @@ class AppLocalizations {
       'item1': 'العنصر 1',
       'item2': 'العنصر 2',
       'item3': 'العنصر 3',
-      'item4': 'العنصر 4',
+      'item4': 'العنصر 4', 'lang': 'English',
+
     },
   };
 
