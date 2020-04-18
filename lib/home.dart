@@ -45,7 +45,8 @@ class _HomeScreenState extends State<HomeScreen> {
 
           ListTile(title: Text(AppLocalizations.of(context).translate('item1')),
             leading: Icon(Icons.layers, color: Theme.of(context).primaryColor,),
-            onTap: () {},),
+            onTap: () {
+            },),
           ListTile(title: Text(AppLocalizations.of(context).translate('item2')),
             leading: Icon(Icons.layers, color: Theme.of(context).primaryColor,),
             onTap: () {},),
